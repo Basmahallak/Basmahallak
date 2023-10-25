@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Basmahallak
+- ✨ I am a civil engineer graduate from AUB holding a teaching diploma from BAU and a masters degree from LU.
 - 🌱 I’m currently learning python.
 - 📫 How to reach me (hallakbasma@gmail.com)
 
